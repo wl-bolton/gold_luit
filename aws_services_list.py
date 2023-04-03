@@ -22,7 +22,7 @@ print("The list contains " + str(length) + " popular AWS services.")
 # Remove two specific services from the list by name or by index.
 
 del aws_services[0]
-del aws_services[0]
+del aws_services[1]
 
 # Print the new list and the new length of the list.
 
